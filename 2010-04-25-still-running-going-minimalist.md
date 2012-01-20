@@ -10,7 +10,9 @@ are a lot of people with the same idea, and companies catering to this idea.
 So last Thursday I treated myself to a new pair of [Vibram FiveFingers
 KSO][2].
 
-![][3] VFF are basically what you would get if you dipped your feet into
+![Vibram FiveFingers KSO][3]
+
+VFF are basically what you would get if you dipped your feet into
 molten rubber, minus, you know, the excrutiating pain, blistering skin and
 earache caused by your own frantic screaming. They're a thin, highly elastic
 second skin for your feet, and not much else, really. Needless to say, I love

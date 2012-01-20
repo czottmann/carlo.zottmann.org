@@ -35,7 +35,7 @@ Dual-license, MIT & GNU GPL v2. Tested in Safari 5 (OSX), FF3.6 (OSX), IE8
 a post about Dana. [I wanted to.][9]
 
 
-[^1]: Why yes, YUIDoc works just fine for non-YUI JS code. [↩][10]
+[^1]: Why yes, YUIDoc works just fine for non-YUI JS code.
 
    [1]: http://developer.yahoo.com/yui/yuidoc/
    [2]: http://github.com/carlo/yuidoc-theme-dana
