@@ -1,5 +1,6 @@
 Title: ★ Hi, I'm Carlo.
 Date: 2027-09-01 00:00:00
+Abstract: Coder, runner, husband, spy.
 Slug: me
 
 
@@ -18,9 +19,15 @@ German-language league game site for photographers,
 and [Ephemera](http://goephemera.com/), a Mac tool for Instapaper enthusiasts
 with ebook readers (open-sourced by now).
 
-I'm running with the cool kids!  Find me on [Github](http://github.com/carlo),
-[Twitter](http://twitter.com/municode) and
-[Google+](https://plus.google.com/117556235540402405674).
+Since I'm running with the cool kids, all of my (public) code is available on
+[Github](http://github.com/carlo).
+
+Comments are disabled as the most prolific comment authors in the past were
+usually the ones trying to sell me stuff like "Semi-Original Penis Replacement
+Lamps", and I really don't need that.  If you read something here and feel
+like discussing it, shoot me a [twoot](http://twitter.com/municode) or drop me
+a line via [Google+](https://plus.google.com/117556235540402405674).
+
 
 * * *
 
