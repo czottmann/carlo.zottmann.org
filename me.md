@@ -4,8 +4,10 @@ Slug: me
 
 
 G'day, you've reached the personal site of Carlo Zottmann.  I'm a
-[freelance software developer](http://municode.de), minimalist runner,
-videogames enthusiast, coffee devotee and husband from Munich, Germany.
+[freelance software developer](http://municode.de),
+[minimalist runner](/tag/running.html),
+[videogames enthusiast](/tag/games.html), coffee devotee and husband from
+Munich, Germany.
 
 ![That's me.](http://dl.dropbox.com/u/7298/blog/me.jpg)
 
