@@ -3,5 +3,6 @@
   "clean_urls": true,
   "default_date_format": "%B %e, %Y",
   "default_pagination": 20,
-  "google_analytics": "UA-163731-6"
+  "google_analytics": "UA-163731-6",
+  "with_future_dates": true
 }
