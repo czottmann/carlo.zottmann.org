@@ -3,7 +3,6 @@ Date: 2006-12-04 02:38:24
 Slug: 2006/12/04/tv-review-heroes
 Tags: en, reviews, tv
 
-# TV Review: "Heroes"
 
 So… [Heroes][1]. I watched the pilot and the first episodes over the last few
 days, and to be honest—I couldn’t stop. It’s all around a great show so far,

@@ -1,9 +1,0 @@
-Title: Question for the lawyers
-Date: 2003-12-30 01:29:36
-Slug: 2003/12/30/question-for-the-lawyers
-
-
-Assuming I have a GPL'ed software, for example a web site kit, and I use this
-kit to set up a website and then develop add-ons for it, and do not spread my
-modifications, am I allowed to make the resulting website a pay service, i.e.
-one where users pay for access?

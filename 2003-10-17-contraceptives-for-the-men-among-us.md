@@ -3,15 +3,16 @@ Date: 2003-10-17 18:09:39
 Slug: 2003/10/17/contraceptives-for-the-men-among-us
 
 
-[Wired.com][1]: _"An implanted male hormonal contraceptive is now being
-tested._
+[Wired.com][1]:
+
+> An implanted male hormonal contraceptive is now being tested.
 
 It works in much the same way as its female counterpart, which uses the
 hormones estrogen and progestin to shut off the release of eggs to prevent
 pregnancy. In the male version, testosterone and progestin are used to turn
 off sperm production.
 
-"The hormones work by suppressing the production of two other hormones from
+> "The hormones work by suppressing the production of two other hormones from
 the brain -- LH (luteinizing hormone) and FSH (follicle-stimulating hormone),"
 said Dr. Christina Wang, professor at Harbor-UCLA Research & Education
 Institute."

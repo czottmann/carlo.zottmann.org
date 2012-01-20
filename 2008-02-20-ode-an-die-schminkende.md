@@ -14,105 +14,57 @@ bin aber immer davon abgekommen. Vielleicht war das gar nicht so schlecht; da
 ich mittlerweile ihre handwerklichen Fähigkeiten aus der Ferne bewundern
 gelernt habe, möchte ich ihr heute etwas hausgemachte Lyrik widmen.
 
-> Warum
+    Warum
+    Oh Frau im Bus jeden Morgen
+    Warum
 
-Oh Frau im Bus jeden Morgen
+    Du schminkst Dich
+    Von Iltisstrasse
+    Bis Bahnhof Trudering
+    Oh Frau im Bus jeden Morgen
 
-Warum
+    Jeden Tag
+    15 Minuten Fahrt
+    Jeden Tag
+    Verwandlung von Biest in Schöne
+    Oh Frau im Bus jeden Morgen
 
->
+    Klammern im Haar
+    Eyeliner in der Hand
+    Cremes, Pinsel, Lippenstift
+    Komplettrestauration!
+    Oh Frau im Bus jeden Morgen
 
-> Du schminkst Dich
+    Mir ist bewusst
+    Dass Du Dir so 15 Minuten "sparst"
+    Jeden Tag
+    Dein Zeitmanagement-Fu erscheint stark
+    Oh Frau im Bus jeden Morgen
 
-Von Iltisstrasse
+    Jedoch
+    Oh Frau im Bus jeden Morgen
+    Scheinst Du zu verkennen
+    Dass der Bus nicht
+    Dein Badezimmer ist
 
-Bis Bahnhof Trudering
+    Im besten Fall
+    Ist es irritierend für alle Anderen
+    Oh Frau im Bus jeden Morgen
 
-Oh Frau im Bus jeden Morgen
+    Vergleichbar nur
+    Mit dem frohgemuten Popeln im Auto
+    Beim Halten an der Ampel
+    Nasenhöhlenwellness
+    Oh Frau im Bus jeden Morgen
 
->
+    Warum
+    Oh Frau im Bus jeden Morgen
+    Warum
 
-> Jeden Tag
+    WIR KÖNNEN DICH SEHEN
 
-15 Minuten Fahrt
-
-Jeden Tag
-
-Verwandlung von Biest in Schöne
-
-Oh Frau im Bus jeden Morgen
-
->
-
-> Klammern im Haar
-
-Eyeliner in der Hand
-
-Cremes, Pinsel, Lippenstift
-
-Komplettrestauration!
-
-Oh Frau im Bus jeden Morgen
-
->
-
-> Mir ist bewusst
-
-Dass Du Dir so 15 Minuten "sparst"
-
-Jeden Tag
-
-Dein Zeitmanagement-Fu erscheint stark
-
-Oh Frau im Bus jeden Morgen
-
->
-
-> Jedoch
-
-Oh Frau im Bus jeden Morgen
-
-Scheinst Du zu verkennen
-
-Dass der Bus nicht
-
-Dein Badezimmer ist
-
->
-
-> Im besten Fall
-
-Ist es irritierend für alle Anderen
-
-Oh Frau im Bus jeden Morgen
-
->
-
-> Vergleichbar nur
-
-Mit dem frohgemuten Popeln im Auto
-
-Beim Halten an der Ampel
-
-Nasenhöhlenwellness
-
-Oh Frau im Bus jeden Morgen
-
->
-
-> Warum
-
-Oh Frau im Bus jeden Morgen
-
-Warum
-
->
-
-> WIR KÖNNEN DICH SEHEN
-
-Oh Frau im Bus jeden Morgen
-
-Oh Frau im Bus jeden Morgen
+    Oh Frau im Bus jeden Morgen
+    Oh Frau im Bus jeden Morgen
 
 Srsly, stop it. Es gibt für alles einen Ort, aber der Bus ist es in diesem
 Fall nicht.

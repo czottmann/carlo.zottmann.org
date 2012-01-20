@@ -12,9 +12,10 @@ all so far.
 
 How to connect an iBook to a (Windows) LAN:
 
-a) Plugin LAN cable. b) Use the network properties to either use the
-"automatic connection type guessing gizmo" or simply enter the wanted IP
-address. c) Done.
+1. Plug in LAN cable.
+2. Use the network properties to either use the "automatic connection type
+guessing gizmo" or simply enter the wanted IP address.
+3. Done.
 
 Whaddaya know, that's it. No hassle, no reboots, just workie. I start to
 believe the Apple marketing department didn't lie after all. ;)

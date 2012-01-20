@@ -4,11 +4,12 @@ Slug: 2008/03/16/sky-brought-down
 Tags: 360, console, en, games, reviews
 
 
-![Promotional Mass Effect screenshot, "Bring Down the Sky"][1]This afternoon
-I’ve finished the first/latest [Mass Effect][2] DLC, [Bring Down the Sky][3].
-It adds a new mission to the game which promises ~90 minutes of gameplay, a
-new location, a new race and a new XBL achievement (worth 50 gamerpoints). It
-costs 400 MS Points (€4.80).
+![Promotional Mass Effect screenshot, "Bring Down the Sky"][1]
+
+This afternoon I’ve finished the first/latest [Mass Effect][2] DLC,
+[Bring Down the Sky][3]. It adds a new mission to the game which promises
+~90 minutes of gameplay, a new location, a new race and a new XBL achievement
+(worth 50 gamerpoints). It costs 400 MS Points (€4.80).
 
 The mission was nice, nothing out of the ordinary, tho. Drive around in your
 Mako, clean out some places, gather “leads” (if you want to call them that)

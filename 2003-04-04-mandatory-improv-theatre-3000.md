@@ -2,6 +2,7 @@ Title: Mandatory Improv Theatre 3000
 Date: 2003-04-04 05:39:40
 Slug: 2003/04/04/mandatory-improv-theatre-3000
 Tags: en, job, wtf
+Abstract: TL;DR: An afternoon suffering through the performance of an improv theatre troupe is likely not going to save the company after all.
 
 
 The whole staff had to participate in a mandatory "workshop" today. Until

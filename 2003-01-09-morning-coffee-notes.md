@@ -1,6 +1,7 @@
 Title: Morning Coffee Notes
 Date: 2003-01-09 15:04:48
 Slug: 2003/01/09/morning-coffee-notes
+Abstract: An inflatable church, now I've seen it all.
 
 
 Good morning everyone. I'm here with the latest from the insanity front:

@@ -26,4 +26,4 @@ crap than we had planned to buy. This place is customer Dantooine.
 
 Anyways, looking forward to Thursday.
 
-   [1]: http://docs.g-blog.net/bilder_etc/ektorp.jpg
+   [1]: http://dl.dropbox.com/u/7298/blog/2004-11-08-ektorp.jpg

@@ -4,6 +4,9 @@ Slug: 2007/06/07/madrid-or-why-were-all-doomed
 Tags: en, energy, life, rant, spain, weather, wtf
 
 
+A few days ago, the [company](http://de.yahoo.com) sent me to Madrid, Spain,
+for a summit.
+
 Madrid was nice. I’ve met a lot of friendly people, co-workers and random
 passersby alike, taxi drivers and dancers (more on that later), and made some
 observation which lead me to believe our attempts at saving the climate are
@@ -50,3 +53,8 @@ better, but we’re getting there… I hope. None of us is without sin, so there
 But apparently a lot of _European_ states seem to hope the problem seems to go
 away by itself. Which I find highly disturbing, and which makes me think we’re
 all doomed.
+
+* * *
+
+**UPDATE:** This here post deserved a less doomy
+[follow-up](/2007/06/16/madrid-or-whoaholycraphowcoolisthat).
