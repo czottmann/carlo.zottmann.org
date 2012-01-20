@@ -4,7 +4,7 @@ Slug: 2011/02/28/space-tourism-one-giant-leap-for-researchers
 Tags: space, nasa, esa, science, spacex
 
 
-Cool NYT article is cool: [Space Tourism: One Giant Leap for Researchers][1]
+Cool NYT article is cool: ["Space Tourism: One Giant Leap for Researchers"][1].
 
 There's a lot of research that can be done in the few minutes of zero G the
 upcoming commercial space flights will provide, but the rides are much, much
