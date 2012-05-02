@@ -16,5 +16,5 @@ So I think I’ll keep using/maintaining [it][2]. Remember, it has a separate
 
    [1]: http://carlo.zottmann.org/
    [2]: http://tumblr.zottmann.org/
-   [3]: http://carlo.zottmann.org/tag/post-it
+   [3]: http://carlo.zottmann.org/tag/post-it.html
    [4]: http://feeds.feedburner.com/CarloTumblr

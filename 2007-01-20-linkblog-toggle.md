@@ -26,4 +26,4 @@ course.
    [1]: http://carlo.zottmann.org/linkblog/
    [2]: http://www.google.com/help/reader/sharing.html
    [3]: http://myweb.yahoo.com
-   [4]: http://carlo.zottmann.org/tag/post-it
+   [4]: http://carlo.zottmann.org/tag/post-it.html

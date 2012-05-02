@@ -1,4 +1,5 @@
 Title: Review: Saints Row 2 (360)
+Abstract: In which I describe some of the silly fun I had in Volition's 2008 absurdist gang warfare sandbox murder simulator comedy, and why I like it after all.
 Date: 2011-05-23 10:40:00
 Slug: 2011/05/23/review-saints-row-2-360
 Tags: games, 360, reviews
@@ -114,7 +115,6 @@ answer is:
 
 **Saints Row 2: €40.**
 
-* * *
 
 [^1]: Look it up, kids.
 [^2]: But you only see said location from the outside, and have to play by ear and gamepad vibration. Sorry.
@@ -124,13 +124,5 @@ answer is:
    [1]: http://www.giantbomb.com/saints-row-2/61-20679/
    [2]: http://dl.dropbox.com/u/7298/blog/5762453072_1.jpg
    [3]: http://www.giantbomb.com/saints-row/61-5618/
-   [4]: #fn:p5762453072-1
-   [5]: #fn:p5762453072-2
-   [6]: #fn:p5762453072-3
    [7]: http://www.imdb.com/name/nm0789478/
-   [8]: #fn:p5762453072-4
    [9]: http://monoxyd.de
-   [10]: #fnref:p5762453072-1
-   [11]: #fnref:p5762453072-2
-   [12]: #fnref:p5762453072-3
-   [13]: #fnref:p5762453072-4

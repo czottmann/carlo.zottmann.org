@@ -1,6 +1,6 @@
 Title: Hot Interracial Deeprun Tram Encounters!
 Date: 2005-08-25 12:37:10
-Slug: 2005/08/25/hot-interracial-deeprun-tram-encounters
+Slug: 2005/08/25/deeprun-tram-encounters
 Tags: en, games, humor, mumorpuger, people are broken, sex, world of warcraft, wtf
 
 

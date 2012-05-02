@@ -1,6 +1,6 @@
 Title: Liebe VOX-Redaktion(en)!
 Date: 2009-08-24 20:14:57
-Slug: 2009/08/24/liebe-vox-redaktion-en
+Slug: 2009/08/24/liebe-vox-redaktionen
 Tags: de, humor, rant, tv
 
 

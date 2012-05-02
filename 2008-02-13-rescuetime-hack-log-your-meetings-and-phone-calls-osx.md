@@ -1,6 +1,6 @@
 Title: RescueTime Hack: Log your meetings and phone calls (OSX only)
 Date: 2008-02-13 20:43:12
-Slug: 2008/02/13/rescuetime-hack-log-your-meetings-and-phone-calls-osx
+Slug: 2008/02/13/rescuetime-hack-log-your-meetings-and-phone-calls-osx-only
 Tags: apple, applescript, code, en, hacking, productivity, rescuetime
 
 

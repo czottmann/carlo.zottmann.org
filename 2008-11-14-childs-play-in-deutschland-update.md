@@ -25,7 +25,7 @@ hat. Hurra!
 
    [1]: http://carlo.zottmann.org/2008/11/11/childs-play-2008-deutschland/
    [2]: http://trackback.fritz.de/info/
-   [3]: http://carlo.zottmann.org/tag/childs-play/
+   [3]: http://carlo.zottmann.org/tag/childs-play.html
    [4]: http://carlo.zottmann.org/2008/11/11/childs-play-2008-deutschland/#2009
    [5]: http://twitter.com/monoxyd
    [6]: http://www.fritz.de/streams/livestream.html

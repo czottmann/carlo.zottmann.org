@@ -15,7 +15,7 @@ very thorough. I’ve picked a male (Infiltrator class), took the “good guy”
 approach (_“We have to save the galaxy! -- Wait, what’s that, old lady? Your
 kitten is trapped in this death maze? We’ll help!”_), also did pretty much
 every sidequest I could find, landed on every rock available, and ended up
-spending -~43- 34 hours or so. Hey, my char even had freaky, slightly awkward
+spending 34 hours or so. Hey, my char even had freaky, slightly awkward
 (in the build-up) alien sex with [that endlessly blabbering blueberry][4].
 Dynomite.
 
@@ -23,7 +23,7 @@ The second time around I rolled a female (Soldier class) and played the whole
 game on hardcore difficulty in a _“I have a job to do, get out of my way”_
 kind of way. Short-tempered, gun-in-your-face attitude, not afraid to leave a
 crater. In short, for the most part I tried to play it like time actually
-mattered. This time I clocked in around 20 14 hours. And this time, my leading
+mattered. This time I clocked in ~14 hours. And this time, my leading
 lady ended up ripping the clothes off one of her male subordinates. Oh, and
 she had freaky, surprising lesbian alien sex with some random NPC, without
 meaning to.
@@ -49,7 +49,7 @@ side-quests were mostly laid out well, and the presentation was usually top
 notch. Especially the last 1-2 hours were _mighty_ fine. Cinematical, even.
 Wonderful, wonderful build up of tension.
 
-All in all I’ve spent around 60-70 50-60 hours on Mass Effect, and enjoyed
+All in all I’ve spent around 50-60 hours on Mass Effect, and enjoyed
 those. I recommend it.
 
    [1]: http://escaloop.com/

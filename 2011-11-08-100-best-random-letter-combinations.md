@@ -1,4 +1,5 @@
 Title: 100 Best Random Letter Combinations
+Abstract: Relevant web development top list is relevant.  (Please pay attention to the hojillion ads in the sidebar while you look at this hastily constructed list of partially broken links.)
 Date: 2011-11-08 18:36:53
 Slug: 2011/11/08/100-best-random-letter-combinations
 Tags: stop with the fucking lists, web development, noone likes you

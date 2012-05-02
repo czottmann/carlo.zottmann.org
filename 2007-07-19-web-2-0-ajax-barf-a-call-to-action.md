@@ -1,6 +1,6 @@
 Title: "Web 2.0", "AJAX", "BARF" - A Call To Action
 Date: 2007-07-19 16:09:38
-Slug: 2007/07/19/web-2-0-ajax-barf-a-call-to-action
+Slug: 2007/07/19/web-20-ajax-barf-a-call-to-action
 Tags: ajax, barf, en, hype, rant, web
 
 

@@ -1,6 +1,6 @@
 Title: Twitter Twerp Scan update: Reputation
 Date: 2008-05-01 00:04:34
-Slug: 2008/05/01/twitter-twerp-scan-update-reputation
+Slug: 2008/04/30/twitter-twerp-scan-update-reputation
 Tags: announcements, en, twerp scan, twitter
 
 

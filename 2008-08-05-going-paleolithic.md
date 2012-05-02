@@ -116,7 +116,7 @@ Opinions?
    [10]: http://www.goodreads.com/review/list/1233416?shelf=series-mars
    [11]: http://www.goodreads.com/review/list/1233416?shelf=series-science-in-the-capitol
    [12]: #fn:p210093156-2
-   [13]: http://carlo.zottmann.org/tag/running/
+   [13]: http://carlo.zottmann.org/tag/running.html
    [14]: http://en.wikipedia.org/wiki/Disc_Golf
    [15]: #fnref:p210093156-1
    [16]: #fnref:p210093156-2

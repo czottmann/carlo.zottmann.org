@@ -66,7 +66,7 @@ If you have questions or suggestions, speak your mind in the comments.
 
    [1]: http://pipes.yahoo.com
    [2]: http://dl.dropbox.com/u/7298/blog/wp-content/2007/02/logo-lg.gif (Yahoo! Pipes logo)
-   [3]: http://carlo.zottmann.org/tag/running
+   [3]: http://carlo.zottmann.org/tag/running.html
    [4]: http://carlo.zottmann.org/2008/05/04/still-running-april-2008/
    [5]: http://nikeplus.nike.com
    [6]: http://dl.dropbox.com/u/7298/blog/wp-content/2008/05/nikeplus.png (Nike+ package)
